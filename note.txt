@@ -1,0 +1,21 @@
+* :wq
+
+
+디렉토리 이동
+cd "파일경로", ex)cd "D:\tipingi-git"
+
+1.
+$git init
+Git 초기화 과정
+.git 폴더(로컬저장소) 생성
+
+
+2.
+$ git config --global user.email "yoojin3907@hotmail.com"
+
+$ git config --global user.name  "tipingi"
+
+GitHub을 통해서 버전 관리를 할 것이니 GitHub와 동일한 계정 정보 등록
+
+
+3.
