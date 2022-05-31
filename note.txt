@@ -75,8 +75,18 @@ ex) git clone https://github.com/yoojin3907/rest.git .
 여기서 마지막에 한칸 띄고 .(마침표)는 현재 폴더에 받으라는 뜻.
 
 
-4.
 
 
+
+GitHub 원격저장소 생성 화면
+
+1. Respository Name: 저장소 이름
+2. Description: 저장소 간단 설명
+3. Public / Private: 공개 / 비공개 설정
+4. Initialize with a README: README로 첫 내용 설정
+5. Add .gitignore: .gitignore 파일 추가 => 작업할 때  굳이 GitHub에 올릴 필요가 없는파일이 있을때
+선택한 항목에 따라 해당 프로젝트에서 GitHub에 올리지 않기를 바라는 파일을 자동으로 목록에 추가.
+필요에 따라서 .gitignore 파일을 만들수 있음
+6. Add a license: 라이센스 파일 추가 => 프로젝트에 맞는 라이센스를 고를 수 있음.
 
 
